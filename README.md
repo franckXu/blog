@@ -1,9 +1,9 @@
-git remote add NGCRM http://git.huawei.com/NGCRM/app_central_web.git
+git remote add xxx http://git.xxx.com/xxx/xxxx.git
 
 git remote -v
 
-git fetch NGCRM
+git fetch xxx
 
-git merge NGCRM/dev
+git merge xxx/dev
 
-git merge NGCRM/dev
+git merge xxx/dev
